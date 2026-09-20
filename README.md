@@ -19,7 +19,6 @@ I am an industrial technician and the founder of [UNATOMO](https://unatomo.com).
 - [UNATOMO](https://unatomo.com) - machine-centered operational software connecting physical equipment with documentation, history, tasks, incidents and technical context.
 - [TechBench](https://github.com/aesgalexis/techbench) - a lightweight field toolbox for technicians, with practical mechanical, electrical and process calculations.
 - [PlateLens](https://github.com/aesgalexis/PlateLens) - turns equipment nameplates into structured, editable technical data directly in the browser.
-- [Codex Usage Meter for Windows](https://github.com/aesgalexis/codex-usage-meter-windows) - a local Windows tray app for visualizing Codex usage limits.
 - [Social Bridge](https://github.com/aesgalexis/social-bridge) - a small controlled bridge between trusted AI agents and social platforms.
 
 ## Current experiments
