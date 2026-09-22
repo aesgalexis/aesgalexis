@@ -17,13 +17,14 @@ I am an industrial technician and the founder of [UNATOMO](https://unatomo.com).
 ## Selected projects
 
 - [UNATOMO](https://unatomo.com) - machine-centered operational software connecting physical equipment with documentation, history, tasks, incidents and technical context.
+- [model-switch](https://github.com/aesgalexis/model-switch) - a local reflex layer for OpenAI Codex that reuses fresh evidence and uses TypeSafe Jev for bounded decisions before falling back to Codex.
 - [TechBench](https://github.com/aesgalexis/techbench) - a lightweight field toolbox for technicians, with practical mechanical, electrical and process calculations.
 - [PlateLens](https://github.com/aesgalexis/PlateLens) - turns equipment nameplates into structured, editable technical data directly in the browser.
 - [Social Bridge](https://github.com/aesgalexis/social-bridge) - a small controlled bridge between trusted AI agents and social platforms.
 
 ## Current experiments
 
-I am also exploring local agents, browser automation, lightweight AI infrastructure and model routing through projects such as [MailLoop](https://github.com/aesgalexis/mailloop), [model-switch](https://github.com/aesgalexis/model-switch) and [Agent Lab](https://github.com/aesgalexis/agent-lab).
+I am also exploring local agents, browser automation, lightweight AI infrastructure and model routing through projects such as [MailLoop](https://github.com/aesgalexis/mailloop) and [Agent Lab](https://github.com/aesgalexis/agent-lab).
 
 Most of these projects start the same way: there is a real problem, an annoying manual step, or a machine that knows less about itself than it should.
 
