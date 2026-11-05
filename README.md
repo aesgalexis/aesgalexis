@@ -23,6 +23,7 @@ I've spent nearly two decades working with industrial machinery, troubleshooting
 ### Desktop & automation
 
 - **[HABITAT](https://github.com/aesgalexis/habitat)** — A native Windows desktop interface for working with ChatGPT through an existing Chrome session, alongside search and everyday tools.
+- **[Mouse Without Borders](https://github.com/aesgalexis/mouse-without-borders)** — Share mouse and touchpad control between two Windows PCs on a trusted local network.
 - **[Codex Usage Meter](https://github.com/aesgalexis/codex-usage-meter-windows)** — A Windows tray app and desktop widget for monitoring Codex usage from local session data.
 - **[model-switch](https://github.com/aesgalexis/model-switch)** — An experimental local reflex layer that reuses evidence and reduces unnecessary Codex tool work.
 
